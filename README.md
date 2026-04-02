@@ -4,9 +4,9 @@ A lightweight Bash script to fetch and clean SEO metadata (Title, Description, a
 
 ---
 
-### 🛠️ How to use (طريقة الاستخدام)
+### 🛠️ Usage Instructions
 
-Open your terminal and follow these steps:
+Open your terminal and execute the following commands:
 
 1. **Clone the project:**
    ```bash
