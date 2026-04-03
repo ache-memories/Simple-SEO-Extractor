@@ -14,20 +14,18 @@ Open your terminal and execute the following commands:
 
 ---
 
+
+
 ## 💖 Support and Donation
-If you find this tool useful, consider supporting my work to keep it updated:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/achememories) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/adnan_hasan)
-
-### 🪙 Crypto Support (USDT/BTC)
-* **USDT (TRC20):** `TUTfLjNJinM8hiuTenhaugLy1oenVWot3b`
-* **BTC:** `15cfHvdGpm9JjU64hyUxxK3YBatpJ9v7iX`
+| Method | Link / Address |
+| :--- | :--- |
+| ☕ **Ko-fi** | [Donate on Ko-fi](https://ko-fi.com/adnan_hasan) |
+| 💸 **PayPal** | [Support via PayPal](https://paypal.me/achememories) |
+| 🪙 **BTC** | `15cfHvdGpm9JjU64hyUxxK3YBatpJ9v7iX` |
+| 🟢 **USDT (TRC20)** | `TUTfLjNJinM8hiuTenhaugLy1oenVWot3b` |
 
 --- 
 *Created by Adnan Hasan*
-
-
 
 ## 📫 Connect & Support
 If you find this tool useful, feel free to reach out or support my work:
