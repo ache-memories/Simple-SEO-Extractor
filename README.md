@@ -15,8 +15,6 @@ A lightweight, high-speed Bash tool designed for metadata extraction and text no
    cd Simple-SEO-Extractor
 ---
 
----
-
 ## 📫 Connect & Support
 If you find this tool useful, feel free to reach out or support my work:
 
