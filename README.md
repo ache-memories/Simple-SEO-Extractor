@@ -11,3 +11,15 @@ Open your terminal and execute the following commands:
 1. **Clone the project:**
    ```bash
    git clone [https://github.com/ache-memories/Simple-SEO-Extractor.git](https://github.com/ache-memories/Simple-SEO-Extractor.git)
+
+---
+
+## 📫 Connect & Support
+If you find this tool useful, feel free to reach out or support my work:
+
+* **Telegram:** [adnanzzzz3](https://t.me/adnanzzzz3) — *Fastest way to reach me.*
+* **X (Twitter):** [@adnanzzzz3](https://x.com/adnanzzzz3)
+* **Instagram:** [adnanzzzz3](https://www.instagram.com/adnanzzzz3/)
+* **Portfolio & Tips:** [Beacons.ai/adnan.hasan](https://beacons.ai/adnan.hasan)
+
+---
