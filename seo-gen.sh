@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # --- SEO Meta Extractor by Adnan Hasan ---
-# Simple tool to fetch meta data and clean Arabic hamzas
+# Lightweight tool for metadata extraction and text normalization
 
 read -p "Enter URL: " url
 
 # Fetch page content with User-Agent
 content=$(curl -sL -A "Mozilla/5.0 (X11; Linux x86_64) Firefox/120.0" "$url")
 
-# Function to clean HTML entities and remove hamzas
+# Function to clean HTML entities and normalize special characters
 clean_all() {
     echo "$1" | sed "s/&#8212;/—/g; s/&#39;/'/g; s/&quot;/\"/g; s/&amp;/\&/g" | \
     sed 's/[أإآ]/ا/g; s/ؤ/و/g; s/ئ/ى/g'
